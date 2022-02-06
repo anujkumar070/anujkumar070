@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
   <br>
   <a href="https://www.linkedin.com/in/anuj-kumar-sahu-514a2b19a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/anuj-kumar-sahu-514a2b19a/" height="30" width="40"/></a>
-<a href="https://anujkumarsahu.netlify.app/" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/05/Solutions-website-logo-png.png" alt="/anuj-kumar-sahu-514a2b19a/" height="30" width="40"/></a>
+  <a href="https://anujkumarsahu.netlify.app/" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/05/Solutions-website-logo-png.png" alt="/anuj-kumar-sahu-514a2b19a/" height="40" width="45"/></a>
   
 </p>
 
