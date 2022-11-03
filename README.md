@@ -36,5 +36,11 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujkumar070&show_icons=true&locale=en" alt="Anuj" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujkumar070" alt="anujkumar070" /></p>
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{anujkumar070}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{anujkumar070}/count.svg)  
+  
+</a>
 
 [![@anujkumar070's Holopin board](https://holopin.io/api/user/board?user=anujkumar070)](https://holopin.io/@anujkumar070)
